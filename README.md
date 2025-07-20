@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 If you give me a toy, the first thing I'd do is take it apart and figure out how it works.
 
 ## Stats
-<div>
-<img align="center" width="200" src="https://github-readme-stats-one-bice.vercel.app/api?username=0x-br0k3n&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-<img align="center" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=0x-br0k3n&theme=default&hide_border=false" />
-<img align="center" width="200" src="https://leetcard.jacoblin.cool/0x-br0k3n" />
-<img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-br0k3n&layout=compact&card_width=500" />
-</div> 
+
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=0x-br0k3n&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x-br0k3n&theme=default&hide_border=false" />
+<img align="center" src="https://leetcard.jacoblin.cool/0x-br0k3n" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-br0k3n&layout=compact&card_width=500" />
+ 
 
